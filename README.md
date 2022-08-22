@@ -4,10 +4,10 @@
 ## Orientação de Estudo para o ANSYS
 
 ### Preparação...
-Instalar o ANSYS WORKBENCH em seu computador.
-Entre no link Download da versão free Ansys Student e siga os passos indicados no tópico INSTALLATION STEPS. Algumas dúvidas podem ser esclarecidas no vídeo Vídeo 1 - Como Instalar o free ANSYS Workbench em seu computador.
+1. Instalar o ANSYS WORKBENCH em seu computador.
+* Entre no link Download da versão free Ansys Student e siga os passos indicados no tópico INSTALLATION STEPS. Algumas dúvidas podem ser esclarecidas no vídeo Vídeo 1 - * Como Instalar o free ANSYS Workbench em seu computador.
 Procure verificar se o seu computador atende aos requisitos indicados no tópico SYSTEM AND BROWSER REQUIREMENTS.
-Uma vez concluída a instalação, sugere-se assistir ao vídeo Getting Started with Ansys Student e reproduzir os passos descritos para testar se o software foi corretamente instalado.
+2. Uma vez concluída a instalação, sugere-se assistir ao vídeo Getting Started with Ansys Student e reproduzir os passos descritos para testar se o software foi corretamente instalado.
 ### Entendendo o que é CFD...
 Antes de começar a usar o ANSYS, é interessante entender o conceito de Computational Fluid Dynamic (CFD), o qual será utilizado neste estudo. Um vídeo introdutório sobre o assunto é:
 Vídeo 2: Introdução a Fluidodinâmica.
