@@ -19,3 +19,6 @@
 5. Vamos iniciar o estudo do ANSYS WORKBENCH com dois exemplos que utilizam conceitos básicos de modelagem na interface Mechanical. Procure observar como é definida a ferramenta de análise, construção das geometrias básicas, a definição de malha e as condições de contorno utilizadas nas superfícies e volumes. Também é importante, nesta etapa entender  o processo de geração e apresentação das soluções de modelagem.
 * [Video 5: Modelagem de Transferência de Calor Por Condução 1D - Corpo Cilíndrico](https://youtu.be/tb8lCXSzULc)
 * [Vídeo 6: Utilização do Mechanical para Análise de Tensões e deformações em uma Viga](https://youtu.be/T9KA6nGC_fE)
+
+## Vídeos das Reuniões - Período: 2022/2
+* 20/08 - 1a. reunião via TEAMS - link: <https://youtu.be/y4DeN_3ROHE>
