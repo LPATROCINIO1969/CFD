@@ -22,4 +22,4 @@
 
 ## Vídeos das Reuniões - Período: 2022/2
 * 20/08 - 1a. reunião via TEAMS - link: <https://youtu.be/y4DeN_3ROHE> e 
-- [vídeo demonstrativo do Ansys Workbench - Static Structural](https://youtu.be/08QIIcrG1ic) 
+      - [vídeo demonstrativo do Ansys Workbench - Static Structural](https://youtu.be/08QIIcrG1ic) 
