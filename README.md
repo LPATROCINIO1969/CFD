@@ -5,7 +5,7 @@
 
 ### Preparação...
 1. Instalar o ANSYS WORKBENCH em seu computador.
-* Entre no link Download da versão free Ansys Student e siga os passos indicados no tópico INSTALLATION STEPS. Algumas dúvidas podem ser esclarecidas no vídeo Vídeo 1 -  Como Instalar o free ANSYS Workbench em seu computador.
+* Entre no link [Download da versão free Ansys Student](https://www.ansys.com/academic/students/ansys-student) e siga os passos indicados no tópico INSTALLATION STEPS. Algumas dúvidas podem ser esclarecidas no vídeo Vídeo 1 -  Como Instalar o free ANSYS Workbench em seu computador.
 * Procure verificar se o seu computador atende aos requisitos indicados no tópico SYSTEM AND BROWSER REQUIREMENTS.
 2. Uma vez concluída a instalação, sugere-se assistir ao vídeo Getting Started with Ansys Student e reproduzir os passos descritos para testar se o software foi corretamente instalado.
 ### Entendendo o que é CFD...
