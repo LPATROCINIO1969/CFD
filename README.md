@@ -21,7 +21,8 @@
 * [Vídeo 6: Utilização do Mechanical para Análise de Tensões e deformações em uma Viga](https://youtu.be/T9KA6nGC_fE)
 6. Uma ferramenta importante para modelagem dentro do ANSYS WORKBENCH e o FLUENT, aplicação destinada a realizar a modelagem de escoamentos fluidos e transferência de calor típicos de análise CFD. Neste exemplo, veremos: a definição da geometria de uma tubulação, o uso do MESH com elementos tetraédricos e definição de regiões nomeadas, a associação de um modelo físico para simular e analisar o resultado no fluent, a ferramenta de pós-processamento para apresentar os resultados finais.
 * [Vídeo 7: Modelagem de escoamento turbulento em uma tubulação cilíndrica - 1](https://youtu.be/ffUuxEP3UuQ)
-
+7. Neste vídeo, mostramos como uma análise de escoamento externo, 2D,  laminar, viscoso em regime permanente, sobre uma superfície plana pode ser realizado. A variável de interesse passa a ser a velocidade (componente x). Neste exemplo é importante ficar atento aos seguintes aspectos: a sequência de produção do modelo (geometria, malha, análise), as condições de contorno que foram assumidas, e principalmente, a forma como o resultado é processado no final do vídeo.
+* [Vídeo 8: Modelagem de escoamento externo, laminar , 2d, viscoso em regime permanente sobre uma placa plana](https://youtu.be/ax1se0EJESI)
 
 ## Vídeos das Reuniões - Período: 2022/2
 * 20/08 - [1a. reunião via TEAMS - link](https://youtu.be/y4DeN_3ROHE) e [vídeo demonstrativo do Ansys Workbench - Static Structural](https://youtu.be/08QIIcrG1ic) 
