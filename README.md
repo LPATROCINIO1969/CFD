@@ -23,6 +23,8 @@
 * [Vídeo 7: Modelagem de escoamento turbulento em uma tubulação cilíndrica - 1](https://youtu.be/ffUuxEP3UuQ)
 7. Neste vídeo, mostramos como uma análise de escoamento externo, 2D,  laminar, viscoso em regime permanente, sobre uma superfície plana pode ser realizado. A variável de interesse passa a ser a velocidade (componente x). Neste exemplo é importante ficar atento aos seguintes aspectos: a sequência de produção do modelo (geometria, malha, análise), as condições de contorno que foram assumidas, e principalmente, a forma como o resultado é processado no final do vídeo.
 * [Vídeo 8: Modelagem de escoamento externo, laminar , 2d, viscoso em regime permanente sobre uma placa plana](https://youtu.be/ax1se0EJESI)
+8. Muitas modelagens de fenômenos 3D apresentam uma simetria em relação a sua profundidade que permite que sejam analisados em uma modelagem 2D. Neste exemplo, vamos representar o escoamento cruzado laminar de um fluido viscoso em torno de um cilindro. Durante esse processo, teremos a formação de vórtices e, portanto, será modelado como um processo REGIME TRANSIENTE para poder mostrar a geração e movimentação desses vórtices. Também vamos dividir a região da malha em sub-regiões para que possamos detalhar melhor pontos próximos da superfície do cilindro e outras regiões de interesse. O modelo permitirá a visualização das linhas de corrente e serão analisados e representados graficamente a velocidade, pressão e vorticidade.
+
 
 ## Vídeos das Reuniões - Período: 2022/2
 * 20/08 - [1a. reunião via TEAMS - link](https://youtu.be/y4DeN_3ROHE) e [vídeo demonstrativo do Ansys Workbench - Static Structural](https://youtu.be/08QIIcrG1ic) 
