@@ -25,7 +25,7 @@
 * [Vídeo 8: Modelagem de escoamento externo, laminar , 2d, viscoso em regime permanente sobre uma placa plana](https://youtu.be/ax1se0EJESI)
 8. Muitas modelagens de fenômenos 3D apresentam uma simetria em relação a sua profundidade que permite que sejam analisados em uma modelagem 2D. Neste exemplo, vamos representar o escoamento cruzado laminar de um fluido viscoso em torno de um cilindro. Durante esse processo, teremos a formação de vórtices e, portanto, será modelado como um processo REGIME TRANSIENTE para poder mostrar a geração e movimentação desses vórtices. Também vamos dividir a região da malha em sub-regiões para que possamos detalhar melhor pontos próximos da superfície do cilindro e outras regiões de interesse. O modelo permitirá a visualização das linhas de corrente e serão analisados e representados graficamente a velocidade, pressão e vorticidade.
 * [Vídeo 9: Escoamento cruzado com um cilindro](https://youtu.be/76BkGEnHByA)
-
+9. Esta atividade consiste em modelar um trocador de calor de multiplos tubos paralelos com escoamento fluido cruzado. Analisaremos o escoamento e a troca de calor que ocorre nesse dispositivo. Para isso, faremos uma modelagem 3D, embora o dispositivo tenha uma simetria que permite fazer uma avaliação 2D. Na etapa de modelagem geométrica e de malha, usaremos diversas operações importantes, tais como pattern (geometry) e boolean, para criação e separação dos componentes físicos do dispositivo.
 
 ## Vídeos das Reuniões - Período: 2022/2
 * 20/08 - [1a. reunião via TEAMS - link](https://youtu.be/y4DeN_3ROHE) e [vídeo demonstrativo do Ansys Workbench - Static Structural](https://youtu.be/08QIIcrG1ic) 
