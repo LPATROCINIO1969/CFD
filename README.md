@@ -33,4 +33,4 @@
 * 27/08 - [2a. reunião via TEAMS - link](https://youtu.be/XkeKymPYEp4)
 * 17/09 - [3a. reunião via TEAMS - link](https://youtu.be/ax1se0EJESI)
 * 24/09 - [4a. reunião via TEAMS - link](https://youtu.be/76BkGEnHByA)
-* 09/10 - [5a. reunião via TEAMS - link]()
+* 09/10 - [5a. reunião via TEAMS - parte 1 - link](https://youtu.be/D4U_wAbUcPs)
