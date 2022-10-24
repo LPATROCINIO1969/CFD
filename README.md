@@ -36,3 +36,4 @@
 * 09/10 - **5a. Reunião via TEAMS**
   * [5a. reunião via TEAMS - parte 1 - link](https://youtu.be/D4U_wAbUcPs)  - *modelagem do trocador de calor no Design Modeler*
   * [5a. reunião via TEAMS - parte 2 - link](https://youtu.be/apzvo77UIws)  - *criação da malha do trocador de calor no Mesh*
+  * [5a. reunião via TEAMS - parte 3 - link](https://youtu.be/RPS2MrSG3oE)  - *Processamento do modelo no FLUENT*
