@@ -28,6 +28,8 @@
 9. Esta atividade consiste em modelar um trocador de calor de multiplos tubos paralelos com escoamento fluido cruzado. Analisaremos o escoamento e a troca de calor que ocorre nesse dispositivo. Para isso, faremos uma modelagem 3D, embora o dispositivo tenha uma simetria que permite fazer uma avaliação 2D. Na etapa de modelagem geométrica e de malha, usaremos diversas operações importantes, tais como pattern (geometry) e boolean, para criação e separação dos componentes físicos do dispositivo.
 * [Vídeo 10: Fluid Flow and Heat Transfer Analysis | Cross Flow Heat Exchanger | ANSYS Fluent Tutorial | CFD](https://youtu.be/-03gO3UwFeA)
 ### Desenvolvimento da Análise CFD em um câmbio CVT
+10. Vídeos sugeridos:
+* [Vídeo 11: Video aula sobre CVT de Olavo Fava](https://youtu.be/6Og01p2gSQY)
 
 ## Vídeos das Reuniões - Período: 2022/2
 * 20/08 - [1a. reunião via TEAMS - link](https://youtu.be/y4DeN_3ROHE) e [vídeo demonstrativo do Ansys Workbench - Static Structural](https://youtu.be/08QIIcrG1ic) 
