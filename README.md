@@ -31,6 +31,7 @@
 10. Vídeos sugeridos:
 * [Vídeo 11: Video aula sobre CVT de Olavo Fava](https://youtu.be/6Og01p2gSQY)
 * [Vídeo 12: CVT/CFD Cooling Thermal Analysis using Ansys - #BAJASEINDIA](https://youtu.be/1Rl1oLPRGFY)
+* [Vídeo 13: Ansys Tutorial: Three Methods for Defining Fluid Volume in Design Modeler](https://youtu.be/_AII6cpzos8)
 
 ## Vídeos das Reuniões - Período: 2022/2
 * 20/08 - [1a. reunião via TEAMS - link](https://youtu.be/y4DeN_3ROHE) e [vídeo demonstrativo do Ansys Workbench - Static Structural](https://youtu.be/08QIIcrG1ic) 
